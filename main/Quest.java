@@ -1,5 +1,3 @@
-package indieQuest;
-
 import indieQuest.entity.mob.Player;
 import indieQuest.graphics.Screen;
 import indieQuest.graphics.SpriteSheet;
