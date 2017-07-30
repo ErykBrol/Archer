@@ -1,4 +1,4 @@
-package indieQuest.graphics;
+package graphics;
 
 import indieQuest.level.tile.Tile;
 
