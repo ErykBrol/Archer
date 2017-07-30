@@ -1,4 +1,4 @@
-package indieQuest.level.tile;
+package level.tile;
 
 import indieQuest.graphics.Screen;
 import indieQuest.graphics.Sprite;
