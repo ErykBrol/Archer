@@ -1,4 +1,4 @@
-package indieQuest.graphics;
+package graphics;
 
 public class Sprite {
 	public final int SIZE;
