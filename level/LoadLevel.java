@@ -1,4 +1,4 @@
-package indieQuest.level;
+package level;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;
