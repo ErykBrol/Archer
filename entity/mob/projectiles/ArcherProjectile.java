@@ -1,4 +1,4 @@
-package indieQuest.entity.mob.projectiles;
+package entity.mob.projectiles;
 
 import indieQuest.graphics.Screen;
 import indieQuest.graphics.Sprite;
