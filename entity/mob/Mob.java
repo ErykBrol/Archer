@@ -1,4 +1,4 @@
-package indieQuest.entity.mob;
+package entity.mob;
 
 import indieQuest.entity.Entity;
 import indieQuest.entity.mob.projectiles.ArcherProjectile;
