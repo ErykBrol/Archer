@@ -1,4 +1,4 @@
-package indieQuest.entity;
+package entity;
 
 import indieQuest.graphics.Screen;
 import indieQuest.level.Level;
