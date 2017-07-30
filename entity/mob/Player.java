@@ -1,4 +1,4 @@
-package indieQuest.entity.mob;
+package entity.mob;
 
 import indieQuest.Quest;
 import indieQuest.graphics.Screen;
