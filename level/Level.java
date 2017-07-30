@@ -1,4 +1,4 @@
-package indieQuest.level;
+package level;
 
 import indieQuest.entity.Entity;
 import indieQuest.entity.mob.Player;
