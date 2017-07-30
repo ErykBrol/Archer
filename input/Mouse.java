@@ -1,4 +1,4 @@
-package indieQuest.input;
+package input;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
